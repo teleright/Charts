@@ -12,7 +12,7 @@
         "php": ">=7.0.0",
         "illuminate/support": "^5.0|^6.0|^7.0",
         "jlawrence/eos": "3.*",
-        "jenssegers/date": "v3.*",
+        "jenssegers/date": "v4.*",
         "consoletvs/support": "^3.0.0"
     },
     "autoload": {
