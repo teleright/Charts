@@ -8,7 +8,7 @@
 <a href="https://packagist.org/packages/consoletvs/charts"><img src="https://poser.pugx.org/consoletvs/charts/license.svg" alt="License"></a>
 </p>
 
-# Fork Charts v5 - Laravel 5 | 6 | 7
+# Fork Charts v5 - Laravel 6 | 7
 
 ```php
 {
