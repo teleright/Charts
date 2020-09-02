@@ -10,6 +10,24 @@
 
 # Fork Charts v5 - Laravel 5 | 6 | 7
 
+```php
+{
+    ...
+    "require": {
+        ...
+        "teleright/charts": "5.4.0.*",
+    },
+    ...
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/teleright/Charts.git"
+        }
+    ],
+    ...
+}
+```
+
 ## What is Charts?
 
 Charts is a multi-library chart package to create interactive charts using laravel. It Gives you access to
